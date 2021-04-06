@@ -1,4 +1,4 @@
-学习的编程语言：C、C++、Python、Java、JS、HTML(+CSS)
+学习的编程语言：C、C++、Python、Java、HTML(+CSS)、Jsp、JS
 
 学习的数据库：MySQL
 
