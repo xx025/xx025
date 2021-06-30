@@ -1,6 +1,11 @@
-学习的编程语言：C、C++、Python、Java、HTML(+CSS)、JSP、JS
+编程语言：Python、Java、C、C++、、HTML、JSP、JS
 
-学习的数据库：MySQL
+数据库：MySQL、SQLite
 
-能力：JS和Selenium 脚本、python爬虫、Python或Java桌面程序、Servlet编程、JavaWeb程序、使用前端框架vue(ElementUI)、使用Linux
+了解并使用：
+  - Python(Flask、PyQt5、Selenium、Requests、matplotlib.pyplot、pyecharts等)、
+  - Java(Swing、JSP、Servlet、Spring)、
+  - Html(Html、JS、Jq、CSS)、Vue(ElementUI)
+  - Linux、Liquid
+  - 安卓Autojs 脚本
 
