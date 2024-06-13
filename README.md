@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 
 ### UserScripts
 
-- [arXiv论文一键翻译](arxiv_org/README.md)
-- [盘友社区自动回复](panyoubbs_com/README.md)
-- [Beautiful Coze| Coze 聊天面板美化](coze_com/README.md)
+- [arXiv论文一键翻译](https://github.com/xx025/strawberry)
+- [盘友社区自动回复](https://github.com/xx025/strawberry)
+- [Beautiful Coze| Coze 聊天面板美化](https://github.com/xx025/strawberry)
+
+### Tools
+
+- [一键禁用笔记本内置键盘](https://github.com/xx025/LockLaptopKeyboard)
+- [下载研招网专业招生目录](https://github.com/xx025/yanx)
