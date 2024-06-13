@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Deepl Learning Demo
+
+- [Horse-to-Zebra](https://github.com/xx025/Horse-to-Zebra)
+- [FlyOrBird](https://github.com/xx025/FlyOrBird)
+
+### UserScripts
+
+- [arXiv论文一键翻译](arxiv_org/README.md)
+- [盘友社区自动回复](panyoubbs_com/README.md)
+- [Beautiful Coze| Coze 聊天面板美化](coze_com/README.md)
