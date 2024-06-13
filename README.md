@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - [arXiv论文一键翻译](https://github.com/xx025/strawberry)
 - [盘友社区自动回复](https://github.com/xx025/strawberry)
-- [Beautiful Coze| Coze 聊天面板美化](https://github.com/xx025/strawberry)
+- [Coze 聊天面板美化](https://github.com/xx025/strawberry)
 
 ### Tools
 
