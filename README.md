@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### Deepl Learning Demo
-
-- [Horse-to-Zebra](https://github.com/xx025/Horse-to-Zebra)
-- [FlyOrBird](https://github.com/xx025/FlyOrBird)
-- [Luna16](https://github.com/xx025/Luna16)
-
 ### UserScripts
 
 - [arXiv论文一键翻译](https://github.com/xx025/strawberry)
