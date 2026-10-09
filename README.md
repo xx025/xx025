@@ -7,3 +7,4 @@ Professional bug attractor. 🐛 😆
 - https://github.com/clearml/clearml/issues/1643
 - https://github.com/ultralytics/ultralytics/issues/24820
 - https://github.com/SchedMD/slurm/pull/233
+- https://github.com/SlinkyProject/slurm-bridge/issues/52
