@@ -8,3 +8,4 @@ Professional bug attractor. 🐛 😆
 - https://github.com/ultralytics/ultralytics/issues/24820
 - https://github.com/SchedMD/slurm/pull/233
 - https://github.com/SlinkyProject/slurm-bridge/issues/52
+- https://github.com/treeverse/lakeFS/pull/10550
